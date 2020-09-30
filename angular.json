@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "yNWWa"
+    }
+  },
+  "defaultProject": "yNWWa",
+  "cli": {
+    "analytics": "346f959a-dd2a-4bb1-a1f0-9e57546970a4"
+  }
 }
